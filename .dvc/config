@@ -1,0 +1,4 @@
+[core]
+    remote = localstorage
+['remote "localstorage"']
+    url = E:\Personal\Projects\Outlet_Sales_Prediction\Artifacts
