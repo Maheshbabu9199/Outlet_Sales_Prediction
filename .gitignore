@@ -1,4 +1,5 @@
 <<<<<<< HEAD
+<<<<<<< HEAD
 # Byte-compiled / optimized / DLL files
 __pycache__/
 *.py[cod]
@@ -163,3 +164,7 @@ cython_debug/
 *.log
 myenv
 >>>>>>> 02d16e2 (added files and folders)
+=======
+*.log
+myenv
+>>>>>>> new_master_branch
