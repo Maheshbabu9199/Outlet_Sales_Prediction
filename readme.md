@@ -1,1 +1,3 @@
-this is from local branch
+# Outlet_Sales_Prediction
+
+README 
