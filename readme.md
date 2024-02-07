@@ -1,4 +1,1 @@
-# Outlet_Sales_Prediction_
-
-README file
- 
+# Outlet_Sales_Prediction
