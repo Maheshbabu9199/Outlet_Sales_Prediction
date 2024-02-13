@@ -1,0 +1,23 @@
+artifacts_folder : Artifacts
+
+data_ingestion:
+  data_folder : 'E:\Personal\Projects\GitHub_Projects\Outlet_Sales_Prediction\Data_Folder\Outlet_Sales.csv'
+  local_folder: 'Artifacts\'
+  filename: 'Outlet_Sales.csv'
+
+
+data_preparation:
+  unnecessary_columns:
+    - Item_Fat_Content
+    - Outlet_Size
+    - Item_Weight
+    - Item_Type
+    - Item_Identifier
+  filepath: 'Artifacts\Outlet_Sales.csv'
+  label: 'Item_Outlet_Sales'
+  local_folder: 'Artifacts\'  
+
+
+model_training:
+  filepath: 'Artifacts\train.csv'
+  models_path: 'src\Models'
